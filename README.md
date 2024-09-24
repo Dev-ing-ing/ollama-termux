@@ -55,7 +55,7 @@ ollama serve
 
 go back in the main session (session 1) and now yo van use ollama
 
-List available models:
+List installed models:
 
 ```sh
 ollama list
@@ -85,7 +85,7 @@ Lama3
 
 tinylama
 
-More models can be found on the official Ollama model library.
+More models can be found on the [official Ollama model library](https://ollama.com/library).
 
 Troubleshooting
 
