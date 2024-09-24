@@ -47,7 +47,7 @@ Usage
 
 After installation, you can run Ollama to interact with models:
 
-first before doing any thing start a new session in termux other then the main one and type(this process needs to be repeated everytime termux is restarted:
+first before doing any thing start a new session in termux other then the main one and type(this process needs to be repeated everytime termux is restarted):
 
 ```sh
 ollama serve
